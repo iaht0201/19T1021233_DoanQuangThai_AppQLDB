@@ -197,4 +197,10 @@
         9pfcnfNLtK5VpCl8Wv5tEPoN+PzTftmzzuUAAAAASUVORK5CYII=
 </value>
   </data>
+  <metadata name="bdsNguoi.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>284, 17</value>
+  </metadata>
+  <metadata name="bdsNhom.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>122, 17</value>
+  </metadata>
 </root>

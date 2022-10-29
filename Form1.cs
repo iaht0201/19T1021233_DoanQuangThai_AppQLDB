@@ -136,6 +136,7 @@ namespace AppQuanLyDanhBa
             if (rs == DialogResult.OK)
             {
                 NapDsNhom();
+               
             }
         }
 
@@ -183,6 +184,7 @@ namespace AppQuanLyDanhBa
             if (rs == DialogResult.OK)
             {
                 NapDsNguoiTheoNhom();
+                NapThongTin();
             }
         }
 
@@ -231,6 +233,9 @@ namespace AppQuanLyDanhBa
             }
         }
 
-      
+        private void progressBar1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
